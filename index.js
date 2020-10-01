@@ -10,7 +10,7 @@ getUserSpecs = () => {
 
         console.log(results)
         const markdownContents = generateReadMe(results)
-        fs.writeFile("read.md", markdownContents.join('\n'), err => err ? console.log(err) : console.log("Created ./README.md"))
+        fs.writeFile("README.md", markdownContents.join('\n'), err => err ? console.log(err) : console.log("Created ./README.md"))
     })
 }
 
