@@ -57,13 +57,8 @@ const {username, title, description, installation, usage, contributions, tests, 
 const markdownContents = [`# ${title}`,'## Table of Contents', '+ [Description](#description)', '+ [Installation](#installation)', '+ [Usage](#usage)', '+ [License](licsense)',
     '+ [Contributions](#contributions)', '+ [Tests](#tests)', '+ [Questions](#questions)', '## Description', description, '## Installation', installation, '## Usage', usage, '## Lisense', //licsence, 
     '## Contributions', contributions, '## Tests', tests, '## Questions', questions ]
-    fs.writeFile("read.md", markdownContents.join('\n'), err =>{
-        if(err){
-            console.log(err)
-        }else{
-            console.log("it worked")
-        }
-    })
+
+   fs.writeFile("read.md", markdownContents.join('\n'), err => err ? console.log(err) : console.log("it worked"))
 }
 
 
