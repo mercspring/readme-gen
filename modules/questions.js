@@ -10,6 +10,11 @@ const questions = [
         message: "Please provide the title of your project."
     },
     {
+        type: "confirm",
+        name: "image",
+        message: "Would you like to include an image in your readme?"
+    },
+    {
         type: "input",
         name: "description",
         message: "Please describe your project."

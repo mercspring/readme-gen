@@ -1,5 +1,6 @@
-# dklsafj
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# cv
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
+
 ## Table of Contents
 + [Description](#description)
 + [Installation](#installation)
@@ -9,17 +10,17 @@
 + [Tests](#tests)
 + [Questions](#questions)
 ## Description
-adflkja
+adsf
 ## Installation
-lkjasdjf
+dsaf
 ## Usage
-kljasdfj
+dsfa
 ## License
-This project is licensed under the MIT license.
+This project is licensed under the GNU GPL v3 license.
 ## Contributions
-kljasdfj
+ds
 ## Tests
-kljafsd
+dsf
 ## Questions
-I can be reached at: <jklfd> with questions about the project.
-My github profile is: [merc](https://github.com/merc)
+I can be reached at: <df> with questions about the project.  
+My github profile is: [cxv](https://github.com/cxv)
