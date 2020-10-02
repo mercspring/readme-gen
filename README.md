@@ -13,9 +13,9 @@
 ## Description
 A command line utility that generates a README.md file. It is specifically geared towards users wanting to create READMEs for for github project repositories.
 ## Installation
-Clone or download the files from github. Then run `npm install` to greab the nessecary node dependencies.
+Clone or download the files from github. Then run `npm install` to grab the nessecary dependencies from npm, a package.json file is provided.
 ## Usage
-Run `node index.js` to start the program. You will then be asked a series of questions about your project, the resulting information will be used to create a README.md file your current working directory. 
+Run `node index.js` to start the program. You will then be asked a series of questions about your project. The resulting information will be used to create a README.md file your current working directory. Can be used to create a README with just the headings by not inputting anything at any of the prompts. 
 ## License
 This project is licensed under the MIT license.
 ## Contributions
