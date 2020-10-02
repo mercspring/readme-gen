@@ -1,6 +1,6 @@
 # readme-gen
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   
- ![alt](./example_video.gif)
+ ![alt](./example-video.gif)
 ## Table of Contents
 + [Description](#description)
 + [Installation](#installation)
